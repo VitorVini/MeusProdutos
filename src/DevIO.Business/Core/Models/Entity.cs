@@ -2,7 +2,7 @@
 
 namespace DevIO.Business.Core.Models
 {
-    internal abstract class Entity
+    public abstract class Entity
     {
 
         protected Entity()

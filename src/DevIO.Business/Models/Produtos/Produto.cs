@@ -4,7 +4,7 @@ using System;
 
 namespace DevIO.Business.Models.Produtos
 {
-    internal class Produto : Entity
+    public class Produto : Entity
     {
         public Guid FornecedorId { get; set; }
         public string Nome { get; set; }
