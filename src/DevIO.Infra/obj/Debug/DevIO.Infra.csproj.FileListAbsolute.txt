@@ -7,3 +7,8 @@ C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Infra\obj\Debug\DevIO.Infra.c
 C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Infra\obj\Debug\DevIO.In.77DAC07D.Up2Date
 C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Infra\obj\Debug\DevIO.Infra.dll
 C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Infra\obj\Debug\DevIO.Infra.pdb
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Infra\bin\Debug\DevIO.Infra.dll.config
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Infra\bin\Debug\EntityFramework.dll
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Infra\bin\Debug\EntityFramework.xml
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Infra\bin\Debug\EntityFramework.SqlServer.xml
