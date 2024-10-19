@@ -1,0 +1,9 @@
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Infra\bin\Debug\DevIO.Infra.dll
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Infra\bin\Debug\DevIO.Infra.pdb
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Infra\bin\Debug\DevIO.Business.dll
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Infra\bin\Debug\DevIO.Business.pdb
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Infra\obj\Debug\DevIO.Infra.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Infra\obj\Debug\DevIO.Infra.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Infra\obj\Debug\DevIO.In.77DAC07D.Up2Date
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Infra\obj\Debug\DevIO.Infra.dll
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Infra\obj\Debug\DevIO.Infra.pdb

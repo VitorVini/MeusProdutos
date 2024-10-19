@@ -106,3 +106,7 @@ C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\obj\Debug\DevIO.AppMvc
 C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\obj\Debug\DevIO.Ap.E0F4B2A8.Up2Date
 C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\obj\Debug\DevIO.AppMvc.dll
 C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\obj\Debug\DevIO.AppMvc.pdb
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\bin\DevIO.Business.dll
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\bin\DevIO.Infra.dll
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\bin\DevIO.Business.pdb
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\bin\DevIO.Infra.pdb

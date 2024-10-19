@@ -1,0 +1,6 @@
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Business\bin\Debug\DevIO.Business.dll
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Business\bin\Debug\DevIO.Business.pdb
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Business\obj\Debug\DevIO.Business.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Business\obj\Debug\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Business\obj\Debug\DevIO.Business.dll
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Business\obj\Debug\DevIO.Business.pdb
