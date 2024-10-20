@@ -110,3 +110,4 @@ C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\bin\DevIO.Business.dll
 C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\bin\DevIO.Infra.dll
 C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\bin\DevIO.Business.pdb
 C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\bin\DevIO.Infra.pdb
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\bin\DevIO.Infra.dll.config
