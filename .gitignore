@@ -2,10 +2,30 @@
 .vs/
 *.suo
 *.user
+*.csproj.user
 *.userosscache
 *.sln.docstates
+
+# Ignore package directories
 packages/
+.vs/
 
 # Ignorar arquivos de banco de dados do SQL Server
 AppMvc/App_Data/*.mdf
 AppMvc/App_Data/*.ldf
+
+# Ignore bin and obj folders (build outputs)
+**/bin/
+**/obj/
+
+# Ignore build caches
+*.cache
+*.pdb
+*.dll
+*.exe
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+
