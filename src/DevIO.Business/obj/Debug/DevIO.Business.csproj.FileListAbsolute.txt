@@ -4,3 +4,10 @@ C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Business\obj\Debug\DevIO.Busi
 C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Business\obj\Debug\DevIO.Business.csproj.CoreCompileInputs.cache
 C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Business\obj\Debug\DevIO.Business.dll
 C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Business\obj\Debug\DevIO.Business.pdb
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Business\bin\Debug\FluentValidation.dll
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Business\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Business\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Business\bin\Debug\FluentValidation.xml
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Business\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Business\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Business\obj\Debug\DevIO.Bu.BDED0575.Up2Date

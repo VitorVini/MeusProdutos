@@ -111,3 +111,9 @@ C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\bin\DevIO.Infra.dll
 C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\bin\DevIO.Business.pdb
 C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\bin\DevIO.Infra.pdb
 C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\bin\DevIO.Infra.dll.config
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\bin\FluentValidation.dll
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\bin\FluentValidation.xml
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\bin\System.Runtime.CompilerServices.Unsafe.xml
