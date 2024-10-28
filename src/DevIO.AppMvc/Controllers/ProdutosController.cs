@@ -15,8 +15,11 @@ namespace DevIO.AppMvc.Controllers
         private readonly IProdutoService _produtoService;
         private readonly IMapper _mapper;
 
-        public ProdutosController()
+        public ProdutosController(IProdutoRepository produtoRepository,
+                                  IProdutoService produtoService,
+                                  IMapper mapper)
         {
+
         }
 
         [Route("lista-de-produtos")]
