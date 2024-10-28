@@ -117,3 +117,11 @@ C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\bin\System.Runtime.Com
 C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\bin\FluentValidation.xml
 C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\bin\System.Threading.Tasks.Extensions.xml
 C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\bin\AutoMapper.dll
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\bin\SimpleInjector.dll
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\bin\SimpleInjector.Integration.Web.dll
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\bin\AutoMapper.xml
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\bin\SimpleInjector.xml
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\bin\SimpleInjector.Integration.Web.xml
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.AppMvc\bin\SimpleInjector.Integration.Web.Mvc.xml
