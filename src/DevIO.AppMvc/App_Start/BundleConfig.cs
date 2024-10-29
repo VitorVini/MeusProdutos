@@ -1,13 +1,14 @@
-﻿using System.Web;
-using System.Web.Optimization;
+﻿using System.Web.Optimization;
 
 namespace DevIO.AppMvc
 {
     public class BundleConfig
     {
-        // For more information on bundling, visit https://go.microsoft.com/fwlink/?LinkId=301862
+        // For more information on bundling, visit https://go.microsoft.com/fwlink/?LinkId=301862   
         public static void RegisterBundles(BundleCollection bundles)
         {
+            BundleTable.EnableOptimizations = true;
+
             bundles.Add(new ScriptBundle("~/bundles/jquery").Include(
                         "~/Scripts/jquery-{version}.js"));
 
@@ -21,6 +22,9 @@ namespace DevIO.AppMvc
 
             bundles.Add(new Bundle("~/bundles/bootstrap").Include(
                       "~/Scripts/bootstrap.js"));
+
+            bundles.Add(new ScriptBundle("~/bundles/site").Include(
+                "~/Scripts/site.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
