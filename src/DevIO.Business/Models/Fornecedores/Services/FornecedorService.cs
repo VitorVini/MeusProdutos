@@ -21,6 +21,9 @@ namespace DevIO.Business.Models.Fornecedores.Services
         }
         public async Task Adicionar(Fornecedor fornecedor)
         {
+            fornecedor.Endereco.Id = fornecedor.Id;
+            fornecedor.Endereco.Fornecedor = fornecedor;
+
             if (!ExecutarValidacao(new FornecedorValidation(), fornecedor)
                 || !ExecutarValidacao(new EnderecoValidation(), fornecedor.Endereco)) return;
 
@@ -31,7 +34,7 @@ namespace DevIO.Business.Models.Fornecedores.Services
 
         public async Task Atualizar(Fornecedor fornecedor)
         {
-            if (ExecutarValidacao(new FornecedorValidation(), fornecedor)) return;
+            if (!ExecutarValidacao(new FornecedorValidation(), fornecedor)) return;
 
             if (await FornecedorExistente(fornecedor)) return;
 
@@ -65,9 +68,9 @@ namespace DevIO.Business.Models.Fornecedores.Services
 
         private async Task<bool> FornecedorExistente(Fornecedor fornecedor)
         {
-            var fornecedorAtual = await _fornecedorRepository.Buscar(f => f.Documento == fornecedor.Documento && f.Id == fornecedor.Id);
+            var fornecedorAtual = await _fornecedorRepository.Buscar(f => f.Documento == fornecedor.Documento && f.Id != fornecedor.Id);
 
-            if (fornecedorAtual.Any()) return false;
+            if (!fornecedorAtual.Any()) return false;
 
             Notificar("Já existe um fornecedor com este documento informado.");
             return true;

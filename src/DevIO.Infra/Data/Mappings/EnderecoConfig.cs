@@ -22,7 +22,7 @@ namespace DevIO.Infra.Data.Mappings
                 .HasMaxLength(8)
                 .IsFixedLength();
 
-            Property(c => c.Complemnto)
+            Property(c => c.Complemento)
                 .HasMaxLength(250);
 
             Property(c => c.Bairro)

@@ -60,6 +60,10 @@
     <Compile Include="Data\Repository\FornecedorRepository.cs" />
     <Compile Include="Data\Repository\ProdutoRepository.cs" />
     <Compile Include="Data\Repository\Repository.cs" />
+    <Compile Include="Migrations\202410292009344_RenomearPropriedadeComplemento.cs" />
+    <Compile Include="Migrations\202410292009344_RenomearPropriedadeComplemento.Designer.cs">
+      <DependentUpon>202410292009344_RenomearPropriedadeComplemento.cs</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -72,7 +76,11 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202410292009344_RenomearPropriedadeComplemento.resx">
+      <DependentUpon>202410292009344_RenomearPropriedadeComplemento.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>

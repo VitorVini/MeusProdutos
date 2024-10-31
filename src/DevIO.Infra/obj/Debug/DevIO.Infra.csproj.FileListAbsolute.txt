@@ -18,3 +18,5 @@ C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Infra\bin\Debug\System.Runtim
 C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Infra\bin\Debug\FluentValidation.xml
 C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Infra\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Infra\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Infra\obj\Debug\DevIO.Infra.Migrations.RenomearPropriedadeComplemento.resources
+C:\Users\vitor\source\repos\MeusProdutos\src\DevIO.Infra\obj\Debug\DevIO.Infra.csproj.GenerateResource.cache

@@ -43,9 +43,9 @@
                     @Html.DisplayFor(modelItem => item.Ativo)
                 </td>
                 <td class="text-right">
-                    <a class="btn btn-warning" href="@Url.Action("Details","Fornecedores", new {id = item.Id})"><span class="glyphicon glyphicon-search"></span></a>
-                    <a class="btn btn-info" href="@Url.Action("Edit", "Fornecedores", new {id = item.Id})"><spam class="glyphicon glyphicon-pencil"></spam> </a>
-                    <a class="btn btn-danger" href="@Url.Action("Delete", "Fornecedores", new {id = item.Id})"><spam class="glyphicon glyphicon-trash"></spam> </a>
+                    <a class="btn btn-warning" href='@Url.Action("Details", "Fornecedores", new { id = item.Id })'><i class="fas fa-search fa-sm"></i></a>
+                    <a class="btn btn-info" href='@Url.Action("Edit", "Fornecedores", new { id = item.Id })'><i class="fas fa-pencil-alt fa-sm"></i></a>
+                    <a class="btn btn-danger" href='@Url.Action("Delete", "Fornecedores", new { id = item.Id })'><i class="fas fa-trash fa-sm"></i></a>
                 </td>
             </tr>
         }
